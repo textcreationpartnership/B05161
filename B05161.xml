@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act anent the loyal curing and packing of herring and salmond-fish. At Edinburgh the eleventh of May, 1693.</title>
+            <author>Scotland. Parliament. Committee of Estates.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05161</idno>
+            <idno type="STC">Wing S1048</idno>
+            <idno type="STC">ESTC R183860</idno>
+            <idno type="EEBO-CITATION">52529191</idno>
+            <idno type="OCLC">ocm 52529191</idno>
+            <idno type="VID">178880</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05161)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178880)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2774:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act anent the loyal curing and packing of herring and salmond-fish. At Edinburgh the eleventh of May, 1693.</title>
+                  <author>Scotland. Parliament. Committee of Estates.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson, Printer to their most excellent Majesties,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno 1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Initial letter.</note>
+                  <note>Signed at end: Extracted forth of the records of Parliament, by Tarbat. Cls. Registri.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fish trade --  Law and legislation --  Scotland --  Early works to 1800.</term>
+               <term>Herring industry --  Scotland --  Early works to 1800.</term>
+               <term>Salmon industry --  Scotland --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="Act_of_Parliament">
+            <pb facs="tcp:178880:1"/>
+            <!-- PDF PAGE 12 -->
+            <pb facs="tcp:178880:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 12 -->
+            <head>
+               <hi>ACT</hi> Anent the Loyal Curing and Packing of Herring and Salmond-fiſh.</head>
+            <opener>
+               <dateline>At <hi>Edinburgh</hi> 
+                  <date>the Eleventh of <hi>May,</hi> 1693.</date>
+               </dateline>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">O</seg>
+                  <g ref="char:V">Ʋ</g>R SOVERAIGN LORD</hi> and <hi>LADY,</hi> the King and Queens Majeſties, conſidering, how much the true and Loyal Curing and Packing of Herring and Salmond-fiſh, to be Exported forth of this Kingdom, contribute to the advancement of Trade, and general Good of the Nation; DO THEREFORE, with Advice and Conſent of the Eſtates of Parliament, Statute, Ordain and Enact, that all Casks to be made hereafter, for Exporting Herr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing, or Salmond-fish, be made of well ſeaſoned Knappel, or O<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k-timber, free from all white Wood, or Worm-holes, the Heads of the Cask dowled, the Step or Stave of a third part of an Inch, at leaſt in thickneſs, and that none of the Staves be Rift or Cl<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ft: And that ilk Barrel for Exporting of Herring, contain eight Gallons and two Pints: And ilk Barrel for Exporting Salmond, ten Gallons, and be full Hooped, at leaſt on the one end, and have eight Hoops on the other end. And SICKLIKE, that there be keeped in each Royal-Burgh, where Casks for Export are made, a Burning-ſeal, for marking of ſuch Casks; and that the Magiſtrats, or Dean of Gild of the reſpective Burghs, appoint an honeſt Cowper, for whom they will be anſwerable, for Viſiting and Trying all Barrels made for Export, and that the Maker of the Cask, put his own mark upon them, before he Sell them, and call a Cowper appointed by a Royal-Burgh to try them, and if they be found ſufficient, that he put the publick Seal of the Burgh upon them, for which the ſaid Cowper is to have four shilling Scots, for ilk Laſt from the Maker: and that ilk Barrel, which after ſuch tryal, shall be found unſufficient, be confiſcated and diſpoſed upon, for the uſe of the Poor, with<g ref="char:EOLhyphen"/>in the Paroch where they are made, excepting ſuch parts thereof, as the reſpective Magiſtrats shall think fit, to give to the Cowper-viſitor within the Burgh, for his encouragement: and if the ſaids Casks shall be found unſufficient, after the pub<g ref="char:EOLhyphen"/>lick mark of the Burgh is ſo affixed thereon, the Cowper who Viſited the ſamine, is to pay therefore ſix pound Scots for ilk Laſt, and proportionally for ilk Barrel: and whatever Cask shall be put aboard, before they be viſited and marked, as ſaid is, the ſame are to be ſeaſed and confiſcated as unſufficient, and applyed for the uſes above-mentioned. AND SICKLIKE, that all Herring and Salmond for Export, be made Pyned and Cured with French Bay, or Spanish Salt, or with Salt upon Salt, made of Forraign Salt: and that all Herrings for Export (excepting ſuch Herrings, as are Exported to the Sound, before the tenth day of <hi>September</hi> yearly) be Repacked, well filled and washed. AND IN LIKE MAN<g ref="char:EOLhyphen"/>NER, that the Magiſtrats in ilk Royal-burgh, appoint an honeſt Man of Judgment, and skill in Curing and Packing of Herring, for whom they ſhall be anſwerable to Viſit all Herrings, Exported out of their Precinct, who is to have a publick Burning-mark, and to affix the ſame upon all Casks, which are found ſufficiently Cured and Packed, and if any shall be found unſufficiently Cured or Packed, after Viſiting and Trying thereof, they are to be ſeazed and confiſcated for the Uſes foreſaids: And the firſt Buyer, is in that caſe to have recourſe againſt the Curer, and Maker of the ſaids Her<g ref="char:EOLhyphen"/>rings, but if the unſufficiency thereof, be diſcovered at the Port of Diſcharge, and be made appear, either by legal Pro<g ref="char:EOLhyphen"/>bation from that place, taken before the Dean of Gild, or Merchant Judge, or by the Atteſtation, upon Oath of the Maſter of the Ship, who Exported the ſamine, and two Merchants of good Fame, declaring the ſaid unſufficiency, and that the ſamine happened thorow the not right Curing, Making or Packing of the Herrings at firſt; then the Merchant-expor<g ref="char:EOLhyphen"/>ter, is to have recourſe for the whole Dammage, ſuſtained by the unſufficiency thereof, againſt the firſt Maker, or Cu<g ref="char:EOLhyphen"/>rer of the ſaids Herrings. AND FOR RENDERING the ſaid Recourſe effectual, all Curers and Makers of Herrings, shall put their own Mark upon their Cask by a Burning-iron, and whatever Herrings are exported without the Makers mark upon the Cask, the Merchant shall have no Recourſe for Dammages, throw the unſufficiency thereof: and in caſe any Cask with Herring be shipped for Export, without the ſaid mark, the reſpective Viſitors who shall make diſcovery thereof, are hereby Authorized and Impowered to ſeaze and confiſcat the ſamine for the Uſes foreſaids. LIKEAS, Their Majeſties with Conſent foreſaid, ORDAIN and APPOINT, the ſaid, Viſitors for the ſeveral Burghs, to be ad<g ref="char:EOLhyphen"/>mitted to that Truſt, upon their taking an Oath <hi>de fideli administratione,</hi> and finding ſufficient Caution for that Effect: and that for their pains therein, they ſhall have ſix ſhilling Scots from the Merchant, or Owner, for ilk Laſt, to be marked by them in manner foreſaid. AND FARTHER, it is appointed for preventing all Debate, that may ariſe betwixt the Viſitors, Merchants, and Curers of Herring, through the Viſitors, their reſuſing or delaying to mark Herrings and Salmond, that are ſufficiently Cured, upon pretext, that they are not ſufficiently Cured, in that caſe upon any ſuch Difference in Burghs-royal, the Magiſtrats are to call five honeſt Men, well skilled in Curing of Herring and Salmond, to decide any ſuch Difference; and in Burghs of Regality, and Barony, or Landwart, the Bailie of Regality, or his Deputs, and the Baron or his Bailie reſpectively, is to choiſe the like number of honeſt Men for that end, and theſe five honeſt Men, are firſt to be ſworn upon Oath, before they proceed to Cognoſce or Decide in any ſuch matter: and the Viſitor ſhall be obliged to affix their Marks, if theſe honeſt Men ſhall declare them loyally Cured, and that under the penalty of ten pounds Scots <hi>toties quoties,</hi> and that there be an Act of Court, in preſence of the reſpective Magiſtrats made thereupon; BUT IN RE<g ref="char:EOLhyphen"/>GARD of the great diſtance of ſome places, on the Weſtern and Northern Coaſts, and Iſles, where Herring are in uſe to be Cured and Packed, from any Burghs-royal, where-thorow the Viſitors cannot mark the ſaid Herring as well, and loyal<g ref="char:EOLhyphen"/>ly Cured and Packed. THEREFORE IT IS STATUTE AND ORDAINED, that the Exporter of ſuch Herring, who ſhall Buy the ſamine from theſe who Cured them, shall be Lyable for the unſufficiency of the Cask, and the bad and diſ<g ref="char:EOLhyphen"/>loyal Curing of the Herring, conform to this preſent Act, in the Sum of fourty pound Scots money of Penalty, for ilk Laſt of the ſaid exported Herring, which shall be found unduly Cured, as ſaid is, and that by legal Probation, or by Atteſtati<g ref="char:EOLhyphen"/>on and Declaration in manner above-mentioned, to be applyed to the behove of the Diſcoverer allenarly: and for the bet<g ref="char:EOLhyphen"/>ter advancing of the Trade, of exporting Salmond-fish, Their Majeſties and Eſtates foreſaids, DO AUTHORIZE AND IMPOWER, the Magiſtrats or Dean of Gild of ilk Royal-burrow, to put this Act, and other Acts of Parliament made there-anent, to all due Execution; DECLARING NEVERTHELESS, likeas, it is hereby expreſly provided and declared, that neither this preſent Act, nor any thing therein contained, shall prejudge the particular Rights of any Burghs-royal, within this Kingdom, but that the ſamine be reſerved to them, as accords of the Law: And ſiklike declaring, that this Act is, and shall be but prejudice to the Powers, and Priviledges, Rights, and Juriſdiction of the Court of Admirality.</p>
+            <p>
+               <hi>Extracted forth of the Records of Parliament, by</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>TARBAT.</hi> Cls. Regiſtri.</signed>
+               <lb/>
+God ſave King <hi>William</hi> and Queen <hi>Mary.</hi>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to Their Moſt Excellent Majeſties, <hi>Anno</hi> 1693.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
